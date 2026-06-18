@@ -1,5 +1,5 @@
 ---
-title: Anbernic's RG Rotate Completely Changed My EDC
+title: The Anbernic RG Rotate Completely Changed My EDC
 date: 2026-06-17 08:12:00 -0400
 categories: [RETRO]
 tags: [anbernic, rg rotate, handheld]
@@ -7,7 +7,7 @@ image:
 	path: https://i.imgur.com/Nw8LOdy.jpeg
 	alt: My EDC setup with the RG Rotate
 ---
-Having a quickly-progressing hobby really just highlights how innovation can change your everyday experience.
+A quickly-progressing hobby really captures how simple innovation can change your day-to-day experience at the drop of a hat.
 
 Ever since I started buying retro handhelds in 2024, I've had this fascination with the *perfect EDC*. Something that I can carry with me when and wherever I am, and that can be deployed in an instant. This originally took the form of a micro handheld I could fit in the pocket of my dress pants at work, but eventually it became something a lot more methodical and designed.
 
