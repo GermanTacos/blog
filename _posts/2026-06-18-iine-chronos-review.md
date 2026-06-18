@@ -1,6 +1,6 @@
 ---
 title: IINE Chronos Review
-description: A Backup Controller for the Perfect Emergencies
+description: A Backup Controller for Perfect Emergencies
 date: 2026-06-18 17:56:00 -0400
 categories: [RETRO]
 tags: [controller, iine, chronos]
