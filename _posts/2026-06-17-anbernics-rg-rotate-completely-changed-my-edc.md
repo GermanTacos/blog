@@ -38,7 +38,7 @@ Then it hit me.
 
 This was actually a genius innovation by Anbernic, rather than a random gimmick for the purpose of nostalgia-baiting potential customers. The Rotate was, in its essence, a cheat code to saving space in a pocketable device. By folding all of the controls *underneath* the display, the entire footprint of the device was suddenly only the size of the screen and bezels. That in and of itself makes the Rotate a hugely valuable device for someone looking for an EDC.
 
-{% include embed/{youtube}.html id='{uuWkJqD05l8}' %}
+{% include embed/youtube.html id='uuWkJqD05l8' %}
 
 What makes the Rotate a smash-hit, though, is that it's paired with the perfect chipset: The Unisoc Tiger T618. This chipset was particularly present in Anbernic's earlier portfolio, at the time as a more powerful option than the increasingly common RK3326 and RK3566 offerings. It allowed a small amount of sixth-gen emulation, but its main selling point at the time was the overhead it provided for fifth-gen emulation. It was overall superseded by the T820 chipset by Anbernic for a year or two, but recently it has begun to make its way back into the fold...as a budget chipset.
 
