@@ -29,6 +29,9 @@ url: "https://blog.tobographic.xyz"
 
 author: Jacob W.
 
+plugins:
+    - jekyll-feed
+
 github:
   username: germantacos # change to your GitHub username
 
