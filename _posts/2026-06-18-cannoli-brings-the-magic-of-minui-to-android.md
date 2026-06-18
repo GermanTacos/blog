@@ -34,6 +34,7 @@ K-Wall is incredibly open to conversation in his Discord server, where he shares
 I've linked Cannoli's website below, and also included a link to K-Wall's Ko-fi. He's put some hard work into this project, and its really revolutionized the simplistic side of Android. Even though I tend to use more full-featured frontends, sometimes I find myself drawn back to Cannoli just because of how stupid simple it is.
 
 [Cannoli's website](https://cannoli.dev/)
+
 [K-Wall's Ko-fi](https://ko-fi.com/kwallbmoc)
 
 If you'd like me to review a product, email me: me@jaw.fyi
