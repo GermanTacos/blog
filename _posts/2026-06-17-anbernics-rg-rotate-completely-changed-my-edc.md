@@ -11,7 +11,7 @@ image:
 
 A quickly-progressing hobby really captures how simple innovation can change your day-to-day experience at the drop of a hat.
 
-Ever since I started buying retro handhelds in 2024, I've had this fascination with the *perfect EDC*. Something that I can carry with me when and wherever I am, and that can be deployed in an instant. This originally took the form of a micro handheld I could fit in the pocket of my dress pants at work, but eventually it became something a lot more methodical and designed.
+Ever since I started buying retro handhelds in 2024, I've had this fascination with the *perfect EDC* (Every Day Carry, if you somehow don't know). Something that I can carry with me when and wherever I am, and that can be deployed in an instant. This originally took the form of a micro handheld I could fit in the pocket of my dress pants at work, but eventually it became something a lot more methodical and designed.
 
 The first of my EDC devices was the Miyoo A30. It was an awesome little device that served its purpose very well - and it's a device that I consider to be criminally underrated in the grand scheme of things. What was so amazing about it to me was that it disappeared in my pocket while still having enough power to play most of what I wanted it to at the time. At that point, I was mainly interested in the more retro side of things: Super Famicom, Game Boy Color, and a little bit of light Game Boy Advance or Nintendo 64 here and there. The A30's chipset and tiny little 2.8" screen carried me for the first few months of my addiction. But there was always the thought of *more*.
 
