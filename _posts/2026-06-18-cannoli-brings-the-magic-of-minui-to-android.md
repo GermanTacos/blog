@@ -38,3 +38,5 @@ I've linked Cannoli's website below, and also included a link to K-Wall's Ko-fi.
 [K-Wall's Ko-fi](https://ko-fi.com/kwallbmoc)
 
 If you'd like me to review a product, email me: me@jaw.fyi
+
+{% include embed/spotify.html id='6CDYbIZs6DjyhDm7lUbpc1' %}
