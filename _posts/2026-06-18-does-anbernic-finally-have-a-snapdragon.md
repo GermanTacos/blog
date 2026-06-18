@@ -28,6 +28,6 @@ _The controversial RixelHK is included on some Anbernic devices._
 
 Regardless of the contoversy, it seems that Anbernic has potentially ironed out these issues with Qualcomm and forged a path to what is hopefully a very successful partnership. Qualcomm seems to be pushing their **G** line recently with Trimui and even the Retroid Pocket G2 (powered by the G2 Gen 2), so it makes total sense for their next step to be the industry's current best-seller. Of course, we're not even perfectly sure that it's *actually* a Snapdragon powering this as-of-yet mysterious RG55G1, but I'd say it's a safe bet given its inclusion in other devices recently.
 
-The RG55G1 looks really cool, in all fairness to the device, but it's what's *inside* that's got me excited. I can't wait to see what Anbernic is cooking this time.
+The RG55G1 looks really cool, in all fairness to the device, but it's what's *inside* that's got me excited. I can't wait to see what Anbernic is cooking this time, and for the future.
 
 If you'd like me to review a product, email me: blog@jaw.fyi
