@@ -59,7 +59,7 @@ I've found that my favorite consoles to play are the ones I can put up and down 
 ![img-description](https://i.imgur.com/FEZfEDA.jpeg)
 _3DS running at 60FPS on the Rotate - at work, no less!_
 
-I initially battled between my two favorite frontends to run the device on, [Cocoon](https://cocoon-shell.com/) and [Canolli](https://cannoli.dev/), but in the end the full-featured Cocoon won out for me. It really just accentuates the power that you have with the T618, that you have access to all of the boxart and metadata and Android ports and everything else that makes this device so different an experience from one like the Pixel II. I can see myself folding for Canolli as time passes, though, and as I start to want something a little more streamlined.
+I initially battled between my two favorite frontends to run the device on, [Cocoon](https://cocoon-shell.com/) and [Cannoli](https://cannoli.dev/), but in the end the full-featured Cocoon won out for me. It really just accentuates the power that you have with the T618, that you have access to all of the boxart and metadata and Android ports and everything else that makes this device so different an experience from one like the Pixel II. I can see myself folding for Cannoli as time passes, though, and as I start to want something a little more streamlined.
 
 I'm not doing an in-depth review of the Rotate here, but I am highlighting its strengths to show just how far EDC handhelds have come for me in the past couple of years. I'm excited to see where things end up come the next couple, but for now the Rotate is all I need.
 
