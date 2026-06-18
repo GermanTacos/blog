@@ -2,7 +2,7 @@
 title: Anbernic's RG Rotate Completely Changed My EDC
 date: 2026-06-17 06:42:00 -0400
 categories: [RETRO]
-tags: [anbernic, rg-rotate, handheld]
+tags: [anbernic, rg rotate, handheld]
 image:
 	path: https://i.imgur.com/Nw8LOdy.jpeg
 	alt: My EDC setup with the RG Rotate
