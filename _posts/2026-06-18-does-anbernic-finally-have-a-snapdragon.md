@@ -3,7 +3,7 @@ title: RG55G1 - Does Anbernic Finally Have a Snapdragon??
 description: It's been a long time coming for Anbernic, but it seems they're finally bringing out the big guns.
 date: 2026-06-18 12:28:00 -0400
 categories: [RETRO]
-tags: [anbernic, rg55g1, handheld, qualcomm, snapdragon]
+tags: [anbernic, rg55g1, handheld, qualcomm, snapdragon, trimui, brick, brick hammer]
 image:
   path: /assets/img/rg55g1-1.jpg
   alt: Anbernic revealed its new RG55G1 lineup today - does this mean they finally have a deal with Qualcomm?
