@@ -5,7 +5,7 @@ date: 2026-06-18 14:16:00 -0400
 categories: [RETRO]
 tags: [frontend, android]
 image:
-  path: /assets/img/canolli.png
+  path: /assets/img/cannoli.png
   alt: Cannoli has a simple vision of bringing the streamlined interface of the intentionally-limited MinUI to Android.
 ---
 
