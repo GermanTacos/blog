@@ -4,9 +4,6 @@ description: It's a never-ending search, but it's over...for now.
 date: 2026-06-17 08:12:00 -0400
 categories: [RETRO]
 tags: [anbernic, rg rotate, handheld]
-image:
-	path: https://i.imgur.com/Nw8LOdy.jpeg
-	alt: My EDC setup with the RG Rotate
 ---
 
 A quickly-progressing hobby really captures how simple innovation can change your day-to-day experience at the drop of a hat.
