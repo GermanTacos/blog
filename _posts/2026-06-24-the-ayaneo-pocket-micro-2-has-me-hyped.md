@@ -45,4 +45,4 @@ As of this article's writing, there's still two days to go for the full device r
 
 If you'd like me to review a product, email me: me@jaw.fyi
 
-{% include embed/spotify.html id='7c1e877c625b4c09' %}
+{% include embed/spotify.html id='1gcESexgftSuLuML57Y69q' %}
