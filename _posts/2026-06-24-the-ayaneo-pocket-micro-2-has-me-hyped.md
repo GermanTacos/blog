@@ -1,6 +1,6 @@
 ---
 title: The AYANEO Pocket Micro 2 Has Me HYPED
-description: Fixing the biggest issue with the original Micro might just make the Micro 2 one of the greats.
+description: Fixing the biggest issue with the original Micro might just make its second generation one of the greats.
 date: 2026-06-24 16:28:00 -0400
 categories: [RETRO]
 tags: [ayaneo, pocket micro, pocket micro 2, handheld]
