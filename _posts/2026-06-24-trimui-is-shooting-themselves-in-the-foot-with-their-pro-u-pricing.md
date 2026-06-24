@@ -1,7 +1,7 @@
 ---
 title: TRIMUI is Shooting Themselves in the Foot with Their Pro U Pricing
 description: Why is TRIMUI trying to charge AYANEO prices all of a sudden?
-date: 2026-06-24 18:33:00 -0400
+date: 2026-06-24 18:03:00 -0400
 categories: [RETRO]
 tags: [trimui, brick, brick pro, brick hammer, brick hammer pro u, handheld]
 image:
