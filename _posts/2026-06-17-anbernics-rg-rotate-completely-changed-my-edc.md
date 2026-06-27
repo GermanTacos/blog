@@ -65,6 +65,6 @@ I'm not doing an in-depth review of the Rotate here, but I am highlighting its s
 
 [blongk official store](https://www.aliexpress.com/store/1100921132) (not sponsored)
 
-If you'd like me to review a product, email me: me@jaw.fyi
+If you'd like me to review a product, email me: [me@jaw.fyi]mailto:me@jaw.fyi
 
 {% include embed/spotify.html id='7AalBKBoLDR4UmRYRJpdbj' %}

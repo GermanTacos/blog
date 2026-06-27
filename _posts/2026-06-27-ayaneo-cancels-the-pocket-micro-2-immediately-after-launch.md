@@ -77,6 +77,6 @@ Overall, this whole situation just puts an awful taste in my mouth. I'm highly u
 
 Just a shame.
 
-If you'd like me to review a product, email me: me@jaw.fyi
+If you'd like me to review a product, email me: [me@jaw.fyi]mailto:me@jaw.fyi
 
 {% include embed/spotify.html id='6jA05EM7TTFpWKwBQr5Isf' %}

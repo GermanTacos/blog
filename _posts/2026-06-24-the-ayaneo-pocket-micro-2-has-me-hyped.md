@@ -45,6 +45,6 @@ Genuinely, AYANEO could have done nothing else but this to the design, and it wo
 
 As of this article's writing, there's still two days to go for the full device reveal, where we'll learn about the SoC and see the full thing for the first time. But what we know about it already has convinced me to pick one up. I'm *really* digging that white colorway, which was apparently planned for the first model but dropped before production. Only time will tell what other features this thing has hidden away, and the all-important price tag.
 
-If you'd like me to review a product, email me: me@jaw.fyi
+If you'd like me to review a product, email me: [me@jaw.fyi]mailto:me@jaw.fyi
 
 {% include embed/spotify.html id='1gcESexgftSuLuML57Y69q' %}
