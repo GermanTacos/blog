@@ -9,6 +9,8 @@ image:
   alt: AYANEO's Pocket Micro 2, due for full reveal on June 26, 2026
 ---
 
+**UPDATE** 2026-06-27: [AYANEO has once again proven that they don't deserve the hype.](https://blog.tobographic.xyz/posts/ayaneo-cancels-the-pocket-micro-2-immediately-after-launch/)
+
 Admittedly, it's pretty easy to get me hyped, but I think this time it's for a damn good reason.
 
 AYANEO released one of my favorite handhelds, the Pocket Micro, all the way back in late 2024. Back then it had a few things that were pretty new for these devices: an all-glass front, aluminum construction, and a genuinely surprising level of performance in so small a package thanks to the MediaTek Helio G99 chipset that powered it. It even had a fan, all packed into a device big enough to fit into your pocket! When I found out this thing was available, it genuinely felt like a new frontier in the market.
