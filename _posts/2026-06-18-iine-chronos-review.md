@@ -40,6 +40,6 @@ I do think there are improvements to be made with this controller, but they're o
 
 **Final Rating: 85 / 100**
 
-If you'd like me to review a product, email me: me@jaw.fyi
+If you'd like me to review a product, email me: [me@jaw.fyi](mailto:me@jaw.fyi)
 
 {% include embed/spotify.html id='4DMKwE2E2iYDKY01C335Uw' %}
