@@ -30,6 +30,6 @@ Regardless of the contoversy, it seems that Anbernic has potentially ironed out 
 
 The RG55G1 looks really cool, in all fairness to the device, but it's what's *inside* that's got me excited. I can't wait to see what Anbernic is cooking this time, and for the future.
 
-If you'd like me to review a product, email me: [me@jaw.fyi]mailto:me@jaw.fyi
+If you'd like me to review a product, email me: [me@jaw.fyi](mailto:me@jaw.fyi)
 
 {% include embed/spotify.html id='6fAhsTDsaeBKUsqeO6Z3dx' %}

@@ -26,6 +26,6 @@ Retailers are doing their best to make this right, it seems, with bundled packag
 
 How is TRIMUI going to respond, given that they supposedly can't offer the device for any cheaper? We were all expecting a reasonable $150 for this device, but a 60% markup is just choking, considering the alternatives currently available on the market.
 
-If you'd like me to review a product, email me: [me@jaw.fyi]mailto:me@jaw.fyi
+If you'd like me to review a product, email me: [me@jaw.fyi](mailto:me@jaw.fyi)
 
 {% include embed/spotify.html id='62yVkwnXm9105KROq2APmE' %}
