@@ -9,6 +9,8 @@ image:
   alt: I'm applying the term "home team" a little loosely, here...
 ---
 
+**UPDATE** 2026-07-07: Shams reported that D-Lo was traded to Memphis in the middle of my writing this post. So sorry, D'Angelo.
+
 I'm not one to get hopeful when it comes to anything that goes on in the DMV, but I think the last couple weeks are finally making me want to believe in Washington, as far as the game of basketball is concerned. But seeing the moves the Wizards have been making during this offseason has me thinking they might be getting ready to unload the clip.
 
 Not every choice is the one I would have made: DeAndre Ayton did not prove he's a competent starting center last season in L.A., nor am I super comfortable with just how much money is being paid to two superstars who are notoriously always dressed in anything except their team's jersey when sitting on the bench. Despite that, the fact that the Wizards are actually signing players with playoff experience, and seemingly *keeping* them, excites me beyond comparison.
