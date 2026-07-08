@@ -1,7 +1,7 @@
 ---
 title: Am I Finally Allowed to Root for My Home Team?
 description: The Wizards are signing enough pieces to make me think this might be the year.
-date: 2026-07-07 22:50:00 -0400
+date: 2026-07-07 22:00:00 -0400
 categories: [SPORTS]
 tags: [sports, basketball, wizards]
 image:
