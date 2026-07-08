@@ -36,4 +36,4 @@ After the total meltdown of the AYANEO Pocket Micro 2 situation, and the seeming
 
 If you'd like me to review a product, email me: [me@jaw.fyi](mailto:me@jaw.fyi)
 
-{% include embed/spotify.html id='4gFFHAj5iwUEHwPpjZTdi5' %}
+{% include embed/spotify.html id='2BY7ALEWdloFHgQZG6VMLA' %}
