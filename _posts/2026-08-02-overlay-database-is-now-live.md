@@ -2,7 +2,7 @@
 title: Overlay Database Is Now Live!
 description: A new way to find overlays for RetroArch cores.
 date: 2026-08-02 23:25:00 -0400
-categories: [RETRO, DEV]
+categories: [RETRO]
 tags: [handheld, overlays, development, retroarch]
 image:
   path: /assets/img/overlays.png
