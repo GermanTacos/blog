@@ -17,7 +17,7 @@ I want to quickly apologize that this review took so long to get out: I had an i
 ![img-description](https://i.imgur.com/wg6BskI.jpeg)
 _IINE’s Twin Lumina is one of the first offerings hoping to replace your Switch Joy-Con 2._
 
-##First Impressions
+## First Impressions
 
 For someone new to high-end controllers, the Twin Lumina has so far really impressed me from the box onward. It comes solidly packaged; standard fare for IINE, but concise nonetheless. The back has lots of cutaway shots of the controller’s mechanics, and a list of features on the side, ranging from the hall-effect sticks to its smartphone app integration (more on that later).
 The contents of the box are pretty simple:
@@ -35,7 +35,7 @@ I’m glad that IINE also opted to include a bridge for these controllers, as I 
 ![img-description](https://i.imgur.com/A8YAeKH.jpeg)
 _Great feel in the hand due to the grip stippling texture._
 
-##Controller Feel and Build Quality
+## Controller Feel and Build Quality
 
 The controllers themselves are quite pretty. IINE offers the Twin Lumina exclusively in white, with a construction style they call ‘dual-shot finish,’ which is essentially a white shell with a translucent plastic covering over the top. This gives the controller an icy-looking finish: Normally I would associate this kind of look with cheaper ‘epic’ looking controllers that aren’t actually all that good, but here it is quite a nice aesthetic. The buttons are finished in this style also, while the sticks are solid rubber and the triggers/shoulders are entirely translucent.
 
@@ -48,7 +48,7 @@ I would like to slightly complain about the bridge that is bundled in: While it 
 ![img-description](https://i.imgur.com/TU1kWVe.jpeg)
 _The ABXY and d-pad feel nice and tactile, like a mouse or MX Blue keyboard switch._
 
-##Controls
+## Controls
 
 Perhaps obviously, the most important part of a controller lies in the controls. What surprised me about the Twin Lumina was how much I liked the microswitches used by the ABXY and d-pad. Coming chiefly from a stock controller player and a user of many retro handhelds, microswitches are often associated with shallow, clicky controls that don’t have much if any tactile travel. The Twin Lumina switches are quite the opposite, feeling more akin to a computer mouse click than the typical microswitch (like that of the Joy-Con 2).
 
@@ -58,7 +58,7 @@ The other buttons use more classic microswitches that have a bit of a clunky fee
 
 The d-pad setup really surprised me. I found it to be not unlike an Xbox-style dish, though more traditionally shaped for my thumb, and difficult to misinput with. In fact, I could say it reminds me of Retroid’s d-pads, which are to date my absolute favorite. Full marks on this one, though I’ll admit I didn’t play as many d-pad centric games as I thought I would over the testing period.
 
-##Latency and Responsiveness
+## Latency and Responsiveness
 
 I should note right away that I do not have a super empirical testing setup for controllers: I rely more on real-world testing and quick checks with some PC and phone-based tools to make my reviews. I am always trying to improve my setups, though, so let me know if there’s any information missing here!
 
@@ -68,7 +68,7 @@ I mostly played Mario Kart World, Elliot: The Millenium Tales, Super Smash Bros.
 
 ![img-description](https://i.imgur.com/IRIVlYU.jpeg)
 
-##Compatibility and Connectivity
+## Compatibility and Connectivity
 
 Another shorter section as the Twin Lumina excels in this department. With full Switch 2 compatibility, the controllers are as easy to pair as snapping to the console, or pairing not unlike regular Joy-Con.
 
@@ -78,7 +78,7 @@ Pairing the controllers to the mobile app is easy, and I was able to update the 
 
 ![img-description](https://i.imgur.com/BtL7mvh.jpeg)
 
-##Final Thoughts
+## Final Thoughts
 
 The Twin Lumina are one of the finer IINE offerings I have tested. This company keeps me coming back for more, and I’m ecstatic that I’m able to rely on them as often as I do. These controllers have slight flaws, but I would not hesitate to recommend them, especially for someone who tends to use the Switch 2 more like a handheld than a home console.
 
