@@ -38,7 +38,7 @@ One complaint I will raise is with the geometry of the inline shoulders; LT and 
 
 I do think there are improvements to be made with this controller, but they're only small, incremental things that *could* get better, not that they necessarily *need* to. For that, the IINE Chronos gets a high rating, and a permanent place in the side-pocket of my backpack. Keeping in mind what it is, there's nothing I'm left wanting for with this controller.
 
-**Final Rating: 85 / 100**
+Final Score: **85 / 100**
 
 If you'd like me to review a product, email me: [me@jaw.fyi](mailto:me@jaw.fyi)
 
