@@ -88,7 +88,7 @@ Overall, the Twin Lumina are a great option for any Switch 2 owner. Buy with con
 
 Final Score: **89 / 100**
 
-[IINE Store](https://iine.store/?ref=tobographic) (affiliate)
+[Purchase the Twin Lumina here](https://iine.store/products/iine-twin-lumina-wireless-joypad-for-switch-2?ref=tobographic) (affiliate)
 
 Discount code: tobographic (3% off)
 
