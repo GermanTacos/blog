@@ -31,6 +31,8 @@ author: Jacob W
 
 plugins:
     - jekyll-feed
+    - jekyll-seo-tag
+    - jekyll-sitemap
 
 github:
   username: germantacos # change to your GitHub username
