@@ -47,4 +47,4 @@ My team to keep an eye on this month: The **Washington Wizards**.
 
 If you'd like me to review a product, email me: [me@jaw.fyi](mailto:me@jaw.fyi)
 
-{% include embed/spotify.html id='6CDYbIZs6DjyhDm7lUbpc1' %}
+{% include embed/spotify.html id='2cgNpsfZcBzdgeNPEeCnue' %}
